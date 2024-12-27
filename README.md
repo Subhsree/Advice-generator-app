@@ -12,7 +12,7 @@ challenge is to build out this advice generator app using the [Advice Slip API](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-S4MXhr8SYd]
 - Live Site URL: [https://advice-generator-app-subhashree-sethis-projects.vercel.app/]
 
 ### Built with
