@@ -13,7 +13,7 @@ challenge is to build out this advice generator app using the [Advice Slip API](
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://advice-generator-app-subhashree-sethis-projects.vercel.app/)
+- Live Site URL: [https://advice-generator-app-subhashree-sethis-projects.vercel.app/]
 
 ### Built with
 
