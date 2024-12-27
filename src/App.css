@@ -1,0 +1,10 @@
+.manrope-800 {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.dice:hover
+{
+  box-shadow: 1px 1px 30px 5px  hsl(150 100% 66% );
+}
