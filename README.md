@@ -12,8 +12,8 @@ challenge is to build out this advice generator app using the [Advice Slip API](
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-S4MXhr8SYd]
-- Live Site URL: [https://advice-generator-app-subhashree-sethis-projects.vercel.app/]
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-S4MXhr8SYd)
+- Live Site URL: [advice-generator](https://advice-generator-app-subhashree-sethis-projects.vercel.app/)
 
 ### Built with
 
@@ -22,5 +22,5 @@ challenge is to build out this advice generator app using the [Advice Slip API](
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- tailwind
-- axios
+- [tailwind](https://tailwindcss.com/)
+- [axios](https://axios-http.com/docs/intro)
