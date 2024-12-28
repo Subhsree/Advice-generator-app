@@ -27,20 +27,6 @@ function App() {
         console.error('Error:', error);
       }
     }
-
-// async function getAdvice()
-//       {
-//         try{
-//           const response = await fetch();
-//           const data = await response.json();
-//           setAdviceid(data.slip.id);
-//           setAdvice(data.slip.advice);
-//         }
-//         catch(e)
-//         {
-//           console.error('There was a problem with the fetch operation:', error);
-//         }
-//       }
       useEffect(
         () =>{
           fetchData();
